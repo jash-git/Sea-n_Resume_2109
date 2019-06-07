@@ -1,0 +1,95 @@
+function top_abanner1000(){}
+
+function rbuildingA(){
+var rbuildingA_ary = [];rbuildingA_ary[0] = [];
+rbuildingA_ary[0][0] = '<a href="https://tw.aorus.com/event-detail.php?i=1021" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198675"><img border=0 src="https://truth.bahamut.com.tw/s01/201905/a04dd10a269f41556b6817a3fb8be58b.JPG"></a>';
+rbuildingA_ary[1] = [];
+rbuildingA_ary[1][0] = '<a href="http://fancyworld.janfusun.com.tw/action_page.aspx?DataKey=67&Title=Tone%20Manga%20Fest&rsquo;%202019" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198706"><img border=0 src="https://truth.bahamut.com.tw/s01/201905/add02e276bab3b0155d5054e4e8a48e9.JPG"></a>';
+rbuildingA_ary[2] = [];
+rbuildingA_ary[2][0] = '<a href="https://go.onelink.me/1QO7/e86f01bb" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198802"><img border=0 src="https://truth.bahamut.com.tw/s01/201906/a53e57f7dde8884a12059864b57e5038.JPG"></a>';
+rbuildingA_ary[2][1] = '<a href="https://go.onelink.me/1QO7/e86f01bb" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="199035"><img border=0 src="https://truth.bahamut.com.tw/s01/201906/93a1639996e529e254869a0376fda57f.JPG"></a>';
+rbuildingA_ary[3] = [];
+rbuildingA_ary[3][0] = '<a href="https://www.genesis.org.tw/contents/project_ct?p_id=1005&branch=100" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="197737"><img border=0 src="https://truth.bahamut.com.tw/s01/201904/6d54cfbcdcd3c52e5ee7c597327b1144.JPG"></a>';
+rbuildingA_ary[4] = [];
+rbuildingA_ary[4][0] = '<a href="https://reurl.cc/1MW8V" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198593"><img border=0 src="https://truth.bahamut.com.tw/s01/201905/56bc08d7884a6c2685938167221f06fb.JPG"></a>';
+rbuildingA_ary[5] = [];
+rbuildingA_ary[5][0] = '<a href="https://prj.gamer.com.tw/bm/2019/" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198577"><img border=0 src="https://truth.bahamut.com.tw/s01/201905/9760a8daca3b59d2ed1b5081b89e0464.JPG"></a>';
+rbuildingA_ary[6] = [];
+rbuildingA_ary[6][0] = '<a href="https://prj.gamer.com.tw/acgaward/2019/rule_game.php" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="196803"><img border=0 src="https://truth.bahamut.com.tw/s01/201904/9183b9da16afcfd4c054e3a3a071020b.JPG"></a>';
+rbuildingA_ary[6][1] = '<a href="https://prj.gamer.com.tw/acgaward/2019/rule_comic.php" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="197963"><img border=0 src="https://truth.bahamut.com.tw/s01/201904/25e86d0071007470e900c6d139b44079.JPG"></a>';
+var ik = getAdIndex(6, 7);
+if( 1 == rbuildingA_ary[ik].length ) {
+document.write(rbuildingA_ary[ik][0]);
+} else {
+document.write(rbuildingA_ary[ik][ ADmercy.ck(6, ik, rbuildingA_ary[ik].length) ]);
+}
+}
+function rbuildingGNN(){
+var rbuildingGNN_ary = [];rbuildingGNN_ary[0] = [];
+rbuildingGNN_ary[0][0] = '<a href="https://tw.aorus.com/event-detail.php?i=1021" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198675"><img border=0 src="https://truth.bahamut.com.tw/s01/201905/a04dd10a269f41556b6817a3fb8be58b.JPG"></a>';
+rbuildingGNN_ary[1] = [];
+rbuildingGNN_ary[1][0] = '<a href="http://fancyworld.janfusun.com.tw/action_page.aspx?DataKey=67&Title=Tone%20Manga%20Fest&rsquo;%202019" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198706"><img border=0 src="https://truth.bahamut.com.tw/s01/201905/add02e276bab3b0155d5054e4e8a48e9.JPG"></a>';
+rbuildingGNN_ary[2] = [];
+rbuildingGNN_ary[2][0] = '<a href="https://go.onelink.me/1QO7/e86f01bb" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198802"><img border=0 src="https://truth.bahamut.com.tw/s01/201906/a53e57f7dde8884a12059864b57e5038.JPG"></a>';
+rbuildingGNN_ary[2][1] = '<a href="https://go.onelink.me/1QO7/e86f01bb" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="199035"><img border=0 src="https://truth.bahamut.com.tw/s01/201906/93a1639996e529e254869a0376fda57f.JPG"></a>';
+rbuildingGNN_ary[3] = [];
+rbuildingGNN_ary[3][0] = '<a href="https://www.genesis.org.tw/contents/project_ct?p_id=1005&branch=100" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="197737"><img border=0 src="https://truth.bahamut.com.tw/s01/201904/6d54cfbcdcd3c52e5ee7c597327b1144.JPG"></a>';
+rbuildingGNN_ary[4] = [];
+rbuildingGNN_ary[4][0] = '<a href="https://reurl.cc/1MW8V" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198593"><img border=0 src="https://truth.bahamut.com.tw/s01/201905/56bc08d7884a6c2685938167221f06fb.JPG"></a>';
+rbuildingGNN_ary[5] = [];
+rbuildingGNN_ary[5][0] = '<a href="https://prj.gamer.com.tw/bm/2019/" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="198577"><img border=0 src="https://truth.bahamut.com.tw/s01/201905/9760a8daca3b59d2ed1b5081b89e0464.JPG"></a>';
+rbuildingGNN_ary[6] = [];
+rbuildingGNN_ary[6][0] = '<a href="https://prj.gamer.com.tw/acgaward/2019/rule_game.php" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="196803"><img border=0 src="https://truth.bahamut.com.tw/s01/201904/9183b9da16afcfd4c054e3a3a071020b.JPG"></a>';
+rbuildingGNN_ary[6][1] = '<a href="https://prj.gamer.com.tw/acgaward/2019/rule_comic.php" target="_blank" class="a-mercy-d" data-mercy="" data-si="" data-ssn="197963"><img border=0 src="https://truth.bahamut.com.tw/s01/201904/25e86d0071007470e900c6d139b44079.JPG"></a>';
+var ik = getAdIndex(1, 7);
+if( 1 == rbuildingGNN_ary[ik].length ) {
+document.write(rbuildingGNN_ary[ik][0]);
+} else {
+document.write(rbuildingGNN_ary[ik][ ADmercy.ck(1, ik, rbuildingGNN_ary[ik].length) ]);
+}
+}
+(function(window, $, undefined) {
+'use strict';
+function getIndex(adnum) {
+var adIndex = Math.floor(Math.random() * adnum);
+return toCode62(adIndex);
+}
+var mercyad = {
+ck: function(pos, m_index, adnum) {
+if( adnum > 1 ) {
+var get_ad_s = egg.cookie.get('ckBAHAADS'),
+adIndex,
+newList = {};
+if( !get_ad_s ) {
+adIndex = getIndex(adnum);
+newList = '{"'+pos+'":{"'+m_index+'":"'+adIndex+'"}}';
+} else {
+var adlist = JSON.parse(get_ad_s);
+if( typeof(adlist['"'+pos+'"']) === "undefined" ) {
+adIndex = getIndex(adnum);
+$.extend(adlist, JSON.parse('{"'+pos+'":{"'+m_index+'":"'+adIndex+'"}}'));
+} else {
+//有在記錄中
+if( adlist['"'+pos+'"']['"'+m_index+'"'] ) {
+adIndex = fromCode62(adlist['"'+pos+'"']['"'+m_index+'"']);
+if( adIndex < 0 ) {
+adIndex = Math.floor(Math.random() * adnum);
+} else {
+adIndex = ++adIndex % adnum;
+}
+adIndex = toCode62(adIndex);
+adlist['"'+pos+'"']['"'+m_index+'"'] = adIndex;
+} else {
+adIndex = getIndex(adnum);
+adlist['"'+pos+'"']['"'+m_index+'"'] = adIndex;
+}
+}
+newList = JSON.stringify(adlist);
+}
+document.cookie = 'ckBAHAADS=' + newList + ';expires=' + new Date().toDateString() + ' 23:59:59 UTC+0800;domain=.gamer.com.tw';
+return adIndex;
+}
+}
+};
+window.ADmercy = mercyad;
+})(window, jQuery);

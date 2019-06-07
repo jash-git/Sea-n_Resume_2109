@@ -1,0 +1,1 @@
+var Util=Util||{};!function(t){"use strict";var n={utf8Length:function(t){if("undefined"!=typeof Blob){var n=t.match(/[^\x00-\xff]/gi);return null===n?t.length:t.length+2*n.length}return new Blob([t]).size}};t.String=n}(Util);

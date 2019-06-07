@@ -1,0 +1,46 @@
+/**
+ * forum quill 用的 css
+ */
+.ql-editor.ql-blank::before {
+  color: #bfbfbf;
+  font-style: normal;
+}
+.ql-bubble .ql-picker.ql-size .ql-picker-label::before,
+.ql-bubble .ql-picker.ql-size .ql-picker-item::before {
+  content: '中';
+}
+.ql-bubble .ql-picker.ql-size .ql-picker-label[data-value="13px"]::before,
+.ql-bubble .ql-picker.ql-size .ql-picker-item[data-value="13px"]::before {
+  content: '小';
+}
+.ql-bubble .ql-picker.ql-size .ql-picker-label[data-value="18px"]::before,
+.ql-bubble .ql-picker.ql-size .ql-picker-item[data-value="18px"]::before {
+  content: '大';
+}
+.ql-bubble .ql-picker.ql-size .ql-picker-label[data-value="24px"]::before,
+.ql-bubble .ql-picker.ql-size .ql-picker-item[data-value="24px"]::before {
+  content: '很大';
+}
+.ql-bubble .ql-picker.ql-size .ql-picker-label[data-value="32px"]::before,
+.ql-bubble .ql-picker.ql-size .ql-picker-item[data-value="32px"]::before {
+  content: '特大';
+}
+.ql-bubble .ql-picker.ql-size .ql-picker-item[data-value="13px"]::before {
+  font-size: 13px;
+}
+.ql-bubble .ql-picker.ql-size .ql-picker-item[data-value="18px"]::before {
+  font-size: 18px;
+}
+.ql-bubble .ql-picker.ql-size .ql-picker-item[data-value="24px"]::before {
+  font-size: 24px;
+}
+.ql-bubble .ql-picker.ql-size .ql-picker-item[data-value="32px"]::before {
+  font-size: 32px;
+}
+.ql-bubble .ql-picker.ql-size {
+  width: 68px;
+}
+.ql-tooltip {
+  z-index: 3;
+}
+
